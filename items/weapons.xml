@@ -8084,25 +8084,25 @@
       <Piece id="crpg_noble_cavalry_lance_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_cataphract_lance_v2_h0" name="{=Telford}Cataphract Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+  <CraftedItem id="crpg_cataphract_lance_v3_h0" name="{=Telford}Cataphract Lance" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_cataphract_lance_blade_h0" Type="Blade" scale_factor="124" />
       <Piece id="crpg_cataphract_lance_handle_h0" Type="Handle" scale_factor="118" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_cataphract_lance_v2_h1" name="{=Telford}Cataphract Lance +1" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+  <CraftedItem id="crpg_cataphract_lance_v3_h1" name="{=Telford}Cataphract Lance +1" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_cataphract_lance_blade_h1" Type="Blade" scale_factor="124" />
       <Piece id="crpg_cataphract_lance_handle_h1" Type="Handle" scale_factor="118" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_cataphract_lance_v2_h2" name="{=Telford}Cataphract Lance +2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+  <CraftedItem id="crpg_cataphract_lance_v3_h2" name="{=Telford}Cataphract Lance +2" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_cataphract_lance_blade_h2" Type="Blade" scale_factor="124" />
       <Piece id="crpg_cataphract_lance_handle_h2" Type="Handle" scale_factor="118" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_cataphract_lance_v2_h3" name="{=Telford}Cataphract Lance +3" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
+  <CraftedItem id="crpg_cataphract_lance_v3_h3" name="{=Telford}Cataphract Lance +3" crafting_template="crpg_TwoHandedPolearm" culture="Culture.empire" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_cataphract_lance_blade_h3" Type="Blade" scale_factor="124" />
       <Piece id="crpg_cataphract_lance_handle_h3" Type="Handle" scale_factor="118" />
