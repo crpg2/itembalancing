@@ -984,25 +984,25 @@
     </ItemComponent>
     <Flags Civilian="true" DoesNotHideChest="true" />
   </Item>
-  <Item id="crpg_bandit_gambeson_v2_h0" name="{=bTUGfbH5}Rugged Gambeson" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
+  <Item id="crpg_bandit_gambeson_v3_h0" name="{=bTUGfbH5}Rugged Gambeson" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
     <ItemComponent>
       <Armor body_armor="26" leg_armor="5" arm_armor="12" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_bandit_gambeson_v2_h1" name="{=bTUGfbH5}Rugged Gambeson +1" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
+  <Item id="crpg_bandit_gambeson_v3_h1" name="{=bTUGfbH5}Rugged Gambeson +1" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
     <ItemComponent>
       <Armor body_armor="28" leg_armor="6" arm_armor="13" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_bandit_gambeson_v2_h2" name="{=bTUGfbH5}Rugged Gambeson +2" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
+  <Item id="crpg_bandit_gambeson_v3_h2" name="{=bTUGfbH5}Rugged Gambeson +2" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
     <ItemComponent>
       <Armor body_armor="30" leg_armor="7" arm_armor="14" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_bandit_gambeson_v2_h3" name="{=bTUGfbH5}Rugged Gambeson +3" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
+  <Item id="crpg_bandit_gambeson_v3_h3" name="{=bTUGfbH5}Rugged Gambeson +3" mesh="bandit_gambeson" culture="Culture.looters" weight="6.469007" appearance="0.3" Type="BodyArmor" difficulty="0">
     <ItemComponent>
       <Armor body_armor="32" leg_armor="8" arm_armor="15" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
@@ -2856,25 +2856,25 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" DoesNotHideChest="true" />
   </Item>
-  <Item id="crpg_empire_warrior_padded_armor_a_v2_h0" name="{=aJLikenm}Infantryman Gambeson" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
+  <Item id="crpg_empire_warrior_padded_armor_a_v3_h0" name="{=aJLikenm}Infantryman Gambeson" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="29" leg_armor="7" arm_armor="7" covers_body="true" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_empire_warrior_padded_armor_a_v2_h1" name="{=aJLikenm}Infantryman Gambeson +1" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
+  <Item id="crpg_empire_warrior_padded_armor_a_v3_h1" name="{=aJLikenm}Infantryman Gambeson +1" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="31" leg_armor="8" arm_armor="8" covers_body="true" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_empire_warrior_padded_armor_a_v2_h2" name="{=aJLikenm}Infantryman Gambeson +2" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
+  <Item id="crpg_empire_warrior_padded_armor_a_v3_h2" name="{=aJLikenm}Infantryman Gambeson +2" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="33" leg_armor="9" arm_armor="9" covers_body="true" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_empire_warrior_padded_armor_a_v2_h3" name="{=aJLikenm}Infantryman Gambeson +3" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
+  <Item id="crpg_empire_warrior_padded_armor_a_v3_h3" name="{=aJLikenm}Infantryman Gambeson +3" mesh="empire_warrior_padded_armor_a" culture="Culture.empire" weight="6.478873" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="35" leg_armor="10" arm_armor="10" covers_body="true" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
@@ -4008,25 +4008,25 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_khuzait_leather_stitched_v2_h0" name="{=z7oMeRl3}Stitched Cured Leather Vest" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
+  <Item id="crpg_khuzait_leather_stitched_v3_h0" name="{=z7oMeRl3}Stitched Cured Leather Vest" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="34" leg_armor="9" arm_armor="9" has_gender_variations="false" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_khuzait_leather_stitched_v2_h1" name="{=z7oMeRl3}Stitched Cured Leather Vest +1" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
+  <Item id="crpg_khuzait_leather_stitched_v3_h1" name="{=z7oMeRl3}Stitched Cured Leather Vest +1" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="36" leg_armor="10" arm_armor="10" has_gender_variations="false" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_khuzait_leather_stitched_v2_h2" name="{=z7oMeRl3}Stitched Cured Leather Vest +2" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
+  <Item id="crpg_khuzait_leather_stitched_v3_h2" name="{=z7oMeRl3}Stitched Cured Leather Vest +2" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="38" leg_armor="11" arm_armor="11" has_gender_variations="false" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_khuzait_leather_stitched_v2_h3" name="{=z7oMeRl3}Stitched Cured Leather Vest +3" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
+  <Item id="crpg_khuzait_leather_stitched_v3_h3" name="{=z7oMeRl3}Stitched Cured Leather Vest +3" mesh="khuzait_leather_stitch_a" culture="Culture.empire" weight="8.396823" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="40" leg_armor="12" arm_armor="12" has_gender_variations="false" covers_body="true" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
@@ -4824,25 +4824,25 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_nordic_lamellar_vest_v2_h0" name="{=QaTkvy56}Bronze Scale Vest" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
+  <Item id="crpg_nordic_lamellar_vest_v3_h0" name="{=QaTkvy56}Bronze Scale Vest" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="38" leg_armor="8" arm_armor="8" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_nordic_lamellar_vest_v2_h1" name="{=QaTkvy56}Bronze Scale Vest +1" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
+  <Item id="crpg_nordic_lamellar_vest_v3_h1" name="{=QaTkvy56}Bronze Scale Vest +1" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="40" leg_armor="9" arm_armor="9" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_nordic_lamellar_vest_v2_h2" name="{=QaTkvy56}Bronze Scale Vest +2" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
+  <Item id="crpg_nordic_lamellar_vest_v3_h2" name="{=QaTkvy56}Bronze Scale Vest +2" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="42" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
-  <Item id="crpg_nordic_lamellar_vest_v2_h3" name="{=QaTkvy56}Bronze Scale Vest +3" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
+  <Item id="crpg_nordic_lamellar_vest_v3_h3" name="{=QaTkvy56}Bronze Scale Vest +3" mesh="sturgia_costume_k" culture="Culture.sturgia" weight="8.998008" appearance="1.2" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="44" leg_armor="11" arm_armor="11" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
