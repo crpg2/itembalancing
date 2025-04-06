@@ -37030,7 +37030,7 @@
   <CraftingPiece id="crpg_chankamace_handle_h1" name="{=BalanceMe}Flangedmace Handle" tier="3" piece_type="Handle" mesh="flangedmace_handle" full_scale="false" length="91.85" weight="0.32" CraftingCost="75">
     <BuildData piece_offset="23" next_piece_offset="1" previous_piece_offset="2" />
   </CraftingPiece>
-  <CraftingPiece id="crpg_chankamacee_handle_h2" name="{=BalanceMe}Flangedmace Handle" tier="3" piece_type="Handle" mesh="flangedmace_handle" full_scale="false" length="91.85" weight="0.32" CraftingCost="75">
+  <CraftingPiece id="crpg_chankamace_handle_h2" name="{=BalanceMe}Flangedmace Handle" tier="3" piece_type="Handle" mesh="flangedmace_handle" full_scale="false" length="91.85" weight="0.32" CraftingCost="75">
     <BuildData piece_offset="23" next_piece_offset="1" previous_piece_offset="2" />
   </CraftingPiece>
   <CraftingPiece id="crpg_chankamace_handle_h3" name="{=BalanceMe}Flangedmace Handle" tier="3" piece_type="Handle" mesh="flangedmace_handle" full_scale="false" length="91.85" weight="0.32" CraftingCost="75">
