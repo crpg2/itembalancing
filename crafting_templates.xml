@@ -5399,14 +5399,6 @@
       <UsablePiece piece_id="crpg_justicier_pommel_h1" />
       <UsablePiece piece_id="crpg_justicier_pommel_h2" />
       <UsablePiece piece_id="crpg_justicier_pommel_h3" />
-      <UsablePiece piece_id="crpg_kama_blade_h0" />
-      <UsablePiece piece_id="crpg_kama_blade_h1" />
-      <UsablePiece piece_id="crpg_kama_blade_h2" />
-      <UsablePiece piece_id="crpg_kama_blade_h3" />
-      <UsablePiece piece_id="crpg_kama_handle_h0" />
-      <UsablePiece piece_id="crpg_kama_handle_h1" />
-      <UsablePiece piece_id="crpg_kama_handle_h2" />
-      <UsablePiece piece_id="crpg_kama_handle_h3" />
       <UsablePiece piece_id="crpg_shepherd_axe_blade_h0" />
       <UsablePiece piece_id="crpg_shepherd_axe_blade_h1" />
       <UsablePiece piece_id="crpg_shepherd_axe_blade_h2" />
@@ -8921,6 +8913,14 @@
       <StatData stat_type="Handling" max_value="200" />
     </StatsData>
     <UsablePieces>
+      <UsablePiece piece_id="crpg_kama_blade_h0" />
+      <UsablePiece piece_id="crpg_kama_blade_h1" />
+      <UsablePiece piece_id="crpg_kama_blade_h2" />
+      <UsablePiece piece_id="crpg_kama_blade_h3" />
+      <UsablePiece piece_id="crpg_kama_handle_h0" />
+      <UsablePiece piece_id="crpg_kama_handle_h1" />
+      <UsablePiece piece_id="crpg_kama_handle_h2" />
+      <UsablePiece piece_id="crpg_kama_handle_h3" />
       <UsablePiece piece_id="crpg_steel_pick_handle_h0" />
       <UsablePiece piece_id="crpg_steel_pick_handle_h1" />
       <UsablePiece piece_id="crpg_steel_pick_handle_h2" />
