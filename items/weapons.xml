@@ -8700,7 +8700,7 @@
       <Piece id="crpg_billhook_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_pike_v1_h0" name="{=h60wQVVX}Pike" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_pike_v2_h0" name="{=h60wQVVX}Pike" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_pike_blade_h0" Type="Blade" scale_factor="107" />
       <Piece id="crpg_pike_handle_h0" Type="Handle" scale_factor="105" />
@@ -8708,7 +8708,7 @@
       <Piece id="crpg_pike_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_pike_v1_h1" name="{=h60wQVVX}Pike +1" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_pike_v2_h1" name="{=h60wQVVX}Pike +1" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_pike_blade_h1" Type="Blade" scale_factor="107" />
       <Piece id="crpg_pike_handle_h1" Type="Handle" scale_factor="105" />
@@ -8716,7 +8716,7 @@
       <Piece id="crpg_pike_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_pike_v1_h2" name="{=h60wQVVX}Pike +2" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_pike_v2_h2" name="{=h60wQVVX}Pike +2" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_pike_blade_h2" Type="Blade" scale_factor="107" />
       <Piece id="crpg_pike_handle_h2" Type="Handle" scale_factor="105" />
@@ -8724,7 +8724,7 @@
       <Piece id="crpg_pike_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_pike_v1_h3" name="{=h60wQVVX}Pike +3" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
+  <CraftedItem id="crpg_pike_v2_h3" name="{=h60wQVVX}Pike +3" crafting_template="crpg_Pike" culture="Culture.vlandia" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_pike_blade_h3" Type="Blade" scale_factor="107" />
       <Piece id="crpg_pike_handle_h3" Type="Handle" scale_factor="105" />
@@ -8732,49 +8732,49 @@
       <Piece id="crpg_pike_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_fine_pike_v1_h0" name="{=dkuzrKJF}Fine Pike" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_fine_pike_v2_h0" name="{=dkuzrKJF}Fine Pike" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_fine_pike_blade_h0" Type="Blade" scale_factor="104" />
       <Piece id="crpg_fine_pike_handle_h0" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_fine_pike_v1_h1" name="{=dkuzrKJF}Fine Pike +1" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_fine_pike_v2_h1" name="{=dkuzrKJF}Fine Pike +1" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_fine_pike_blade_h1" Type="Blade" scale_factor="104" />
       <Piece id="crpg_fine_pike_handle_h1" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_fine_pike_v1_h2" name="{=dkuzrKJF}Fine Pike +2" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_fine_pike_v2_h2" name="{=dkuzrKJF}Fine Pike +2" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_fine_pike_blade_h2" Type="Blade" scale_factor="104" />
       <Piece id="crpg_fine_pike_handle_h2" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_fine_pike_v1_h3" name="{=dkuzrKJF}Fine Pike +3" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_fine_pike_v2_h3" name="{=dkuzrKJF}Fine Pike +3" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_fine_pike_blade_h3" Type="Blade" scale_factor="104" />
       <Piece id="crpg_fine_pike_handle_h3" Type="Handle" scale_factor="147" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_thamaskene_pike_v1_h0" name="{=RwpJFXxc}Thamaskene Pike" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_thamaskene_pike_v2_h0" name="{=RwpJFXxc}Thamaskene Pike" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_thamaskene_pike_blade_h0" Type="Blade" scale_factor="102" />
       <Piece id="crpg_thamaskene_pike_handle_h0" Type="Handle" scale_factor="136" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_thamaskene_pike_v1_h1" name="{=RwpJFXxc}Thamaskene Pike +1" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_thamaskene_pike_v2_h1" name="{=RwpJFXxc}Thamaskene Pike +1" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_thamaskene_pike_blade_h1" Type="Blade" scale_factor="102" />
       <Piece id="crpg_thamaskene_pike_handle_h1" Type="Handle" scale_factor="136" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_thamaskene_pike_v1_h2" name="{=RwpJFXxc}Thamaskene Pike +2" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_thamaskene_pike_v2_h2" name="{=RwpJFXxc}Thamaskene Pike +2" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_thamaskene_pike_blade_h2" Type="Blade" scale_factor="102" />
       <Piece id="crpg_thamaskene_pike_handle_h2" Type="Handle" scale_factor="136" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_thamaskene_pike_v1_h3" name="{=RwpJFXxc}Thamaskene Pike +3" crafting_template="crpg_Pike" modifier_group="polearm">
+  <CraftedItem id="crpg_thamaskene_pike_v2_h3" name="{=RwpJFXxc}Thamaskene Pike +3" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
       <Piece id="crpg_thamaskene_pike_blade_h3" Type="Blade" scale_factor="102" />
       <Piece id="crpg_thamaskene_pike_handle_h3" Type="Handle" scale_factor="136" />
