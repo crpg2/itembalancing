@@ -37124,10 +37124,9 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_chankamace_altmode_pommel_h3" name="{=Yeldur}Flangedmace Pommel" tier="3" piece_type="Pommel" mesh="flangedmace_pommel" culture="Culture.empire" full_scale="true" length="12" weight="1.0">
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_blade_h0" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.9">
+  <CraftingPiece id="crpg_nagamaki_blade_h0" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1.2" />
-      <Swing damage_type="Cut" damage_factor="1.5" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37136,10 +37135,9 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_blade_h1" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.9">
+  <CraftingPiece id="crpg_nagamaki_blade_h1" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1.2" />
-      <Swing damage_type="Cut" damage_factor="1.5" />
+      <Swing damage_type="Cut" damage_factor="4.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37148,10 +37146,9 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_blade_h2" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.9">
+  <CraftingPiece id="crpg_nagamaki_blade_h2" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1.2" />
-      <Swing damage_type="Cut" damage_factor="1.5" />
+      <Swing damage_type="Cut" damage_factor="4.2" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37160,10 +37157,9 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_blade_h3" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.9">
+  <CraftingPiece id="crpg_nagamaki_blade_h3" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1.2" />
-      <Swing damage_type="Cut" damage_factor="1.5" />
+      <Swing damage_type="Cut" damage_factor="4.3" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37178,19 +37174,19 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_handle_h1" name="Nagamaki Handle" tier="2" piece_type="Handle" mesh="nagamaki_handle" length="80.1" weight="1.5" excluded_item_usage_features="long">
+  <CraftingPiece id="crpg_nagamaki_handle_h1" name="Nagamaki Handle" tier="2" piece_type="Handle" mesh="nagamaki_handle" length="80.1" weight="1.3" excluded_item_usage_features="long">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="10" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_handle_h2" name="Nagamaki Handle" tier="2" piece_type="Handle" mesh="nagamaki_handle" length="80.1" weight="1.5" excluded_item_usage_features="long">
+  <CraftingPiece id="crpg_nagamaki_handle_h2" name="Nagamaki Handle" tier="2" piece_type="Handle" mesh="nagamaki_handle" length="80.1" weight="1.3" excluded_item_usage_features="long">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="10" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_nagamaki_handle_h3" name="Nagamaki Handle" tier="2" piece_type="Handle" mesh="nagamaki_handle" length="80.1" weight="1.5" excluded_item_usage_features="long">
+  <CraftingPiece id="crpg_nagamaki_handle_h3" name="Nagamaki Handle" tier="2" piece_type="Handle" mesh="nagamaki_handle" length="80.1" weight="1.1" excluded_item_usage_features="long">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="10" />
     <Materials>
       <Material id="Wood" count="1" />
