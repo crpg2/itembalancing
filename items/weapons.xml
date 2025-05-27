@@ -8758,26 +8758,26 @@
   </CraftedItem>
   <CraftedItem id="crpg_thamaskene_pike_v2_h0" name="{=RwpJFXxc}Thamaskene Pike" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_thamaskene_pike_blade_h0" Type="Blade" scale_factor="102" />
-      <Piece id="crpg_thamaskene_pike_handle_h0" Type="Handle" scale_factor="136" />
+      <Piece id="crpg_thamaskene_pike_blade_h0" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_thamaskene_pike_handle_h0" Type="Handle" scale_factor="125" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_thamaskene_pike_v2_h1" name="{=RwpJFXxc}Thamaskene Pike +1" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_thamaskene_pike_blade_h1" Type="Blade" scale_factor="102" />
-      <Piece id="crpg_thamaskene_pike_handle_h1" Type="Handle" scale_factor="136" />
+      <Piece id="crpg_thamaskene_pike_blade_h1" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_thamaskene_pike_handle_h1" Type="Handle" scale_factor="125" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_thamaskene_pike_v2_h2" name="{=RwpJFXxc}Thamaskene Pike +2" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_thamaskene_pike_blade_h2" Type="Blade" scale_factor="102" />
-      <Piece id="crpg_thamaskene_pike_handle_h2" Type="Handle" scale_factor="136" />
+      <Piece id="crpg_thamaskene_pike_blade_h2" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_thamaskene_pike_handle_h2" Type="Handle" scale_factor="125" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_thamaskene_pike_v2_h3" name="{=RwpJFXxc}Thamaskene Pike +3" crafting_template="crpg_Pike" modifier_group="polearm">
     <Pieces>
-      <Piece id="crpg_thamaskene_pike_blade_h3" Type="Blade" scale_factor="102" />
-      <Piece id="crpg_thamaskene_pike_handle_h3" Type="Handle" scale_factor="136" />
+      <Piece id="crpg_thamaskene_pike_blade_h3" Type="Blade" scale_factor="100" />
+      <Piece id="crpg_thamaskene_pike_handle_h3" Type="Handle" scale_factor="125" />
     </Pieces>
   </CraftedItem>
   <CraftedItem id="crpg_notched_military_fork_v1_h0" name="{=kR1blV2k}Notched Military Fork" crafting_template="crpg_Pike" modifier_group="polearm">
