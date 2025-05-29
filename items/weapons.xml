@@ -12772,25 +12772,25 @@
       <Piece id="crpg_onehanded_gada_handle_h3" Type="Handle" scale_factor="60" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v1_h0" name="{=}One-Handed Barmace" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v2_h0" name="{=}One-Handed Barmace" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h0" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h0" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v1_h1" name="{=}One-Handed Barmace +1" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v2_h1" name="{=}One-Handed Barmace +1" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h1" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h1" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v1_h2" name="{=}One-Handed Barmace +2" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v2_h2" name="{=}One-Handed Barmace +2" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h2" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h2" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v1_h3" name="{=}One-Handed Barmace +3" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v2_h3" name="{=}One-Handed Barmace +3" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h3" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h3" Type="Handle" scale_factor="95" />
