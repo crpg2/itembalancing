@@ -888,25 +888,25 @@
       <Piece id="crpg_gada_handle_h3" Type="Handle" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_barmace_v2_h0" name="{=}Barmace" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_barmace_v3_h0" name="{=}Barmace" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_barmace_blade_h0" Type="Blade" scale_factor="160" />
       <Piece id="crpg_barmace_handle_h0" Type="Handle" scale_factor="145" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_barmace_v2_h1" name="{=}Barmace +1" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_barmace_v3_h1" name="{=}Barmace +1" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_barmace_blade_h1" Type="Blade" scale_factor="160" />
       <Piece id="crpg_barmace_handle_h1" Type="Handle" scale_factor="145" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_barmace_v2_h2" name="{=}Barmace +2" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_barmace_v3_h2" name="{=}Barmace +2" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_barmace_blade_h2" Type="Blade" scale_factor="160" />
       <Piece id="crpg_barmace_handle_h2" Type="Handle" scale_factor="145" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_barmace_v2_h3" name="{=}Barmace +3" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
+  <CraftedItem id="crpg_barmace_v3_h3" name="{=}Barmace +3" crafting_template="crpg_TwoHandedSword" is_merchandise="false">
     <Pieces>
       <Piece id="crpg_barmace_blade_h3" Type="Blade" scale_factor="160" />
       <Piece id="crpg_barmace_handle_h3" Type="Handle" scale_factor="145" />
@@ -4936,7 +4936,7 @@
       <Piece id="crpg_xiphos_pommel_h3" Type="Pommel" scale_factor="90" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_knife_v3_h0" name="{=Yeldur}Falx Knife" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_knife_v2_h0" name="{=Yeldur}Falx Knife" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_knife_blade_h0" Type="Blade" scale_factor="106" />
       <Piece id="crpg_falx_knife_guard_h0" Type="Guard" />
@@ -4944,7 +4944,7 @@
       <Piece id="crpg_falx_knife_pommel_h0" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_knife_v3_h1" name="{=Yeldur}Falx Knife +1" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_knife_v2_h1" name="{=Yeldur}Falx Knife +1" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_knife_blade_h1" Type="Blade" scale_factor="106" />
       <Piece id="crpg_falx_knife_guard_h1" Type="Guard" />
@@ -4952,7 +4952,7 @@
       <Piece id="crpg_falx_knife_pommel_h1" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_knife_v3_h2" name="{=Yeldur}Falx Knife +2" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_knife_v2_h2" name="{=Yeldur}Falx Knife +2" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_knife_blade_h2" Type="Blade" scale_factor="106" />
       <Piece id="crpg_falx_knife_guard_h2" Type="Guard" />
@@ -4960,7 +4960,7 @@
       <Piece id="crpg_falx_knife_pommel_h2" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_knife_v3_h3" name="{=Yeldur}Falx Knife +3" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_knife_v2_h3" name="{=Yeldur}Falx Knife +3" crafting_template="crpg_Dagger" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_knife_blade_h3" Type="Blade" scale_factor="106" />
       <Piece id="crpg_falx_knife_guard_h3" Type="Guard" />
@@ -5384,7 +5384,7 @@
       <Piece id="crpg_fine_steel_two_handed_sword_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_v1_h0" name="{=QLcP8bIs}Falx" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_v2_h0" name="{=QLcP8bIs}Falx" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_blade_h0" Type="Blade" scale_factor="129" />
       <Piece id="crpg_falx_guard_h0" Type="Guard" scale_factor="105" />
@@ -5392,7 +5392,7 @@
       <Piece id="crpg_falx_pommel_h0" Type="Pommel" scale_factor="105" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_v1_h1" name="{=QLcP8bIs}Falx +1" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_v2_h1" name="{=QLcP8bIs}Falx +1" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_blade_h1" Type="Blade" scale_factor="129" />
       <Piece id="crpg_falx_guard_h1" Type="Guard" scale_factor="105" />
@@ -5400,7 +5400,7 @@
       <Piece id="crpg_falx_pommel_h1" Type="Pommel" scale_factor="105" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_v1_h2" name="{=QLcP8bIs}Falx +2" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_v2_h2" name="{=QLcP8bIs}Falx +2" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_blade_h2" Type="Blade" scale_factor="129" />
       <Piece id="crpg_falx_guard_h2" Type="Guard" scale_factor="105" />
@@ -5408,7 +5408,7 @@
       <Piece id="crpg_falx_pommel_h2" Type="Pommel" scale_factor="105" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_falx_v1_h3" name="{=QLcP8bIs}Falx +3" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
+  <CraftedItem id="crpg_falx_v2_h3" name="{=QLcP8bIs}Falx +3" crafting_template="crpg_TwoHandedSword" culture="Culture.battania" modifier_group="sword">
     <Pieces>
       <Piece id="crpg_falx_blade_h3" Type="Blade" scale_factor="129" />
       <Piece id="crpg_falx_guard_h3" Type="Guard" scale_factor="105" />
@@ -12772,25 +12772,25 @@
       <Piece id="crpg_onehanded_gada_handle_h3" Type="Handle" scale_factor="60" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v3_h0" name="{=}One-Handed Barmace" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v1_h0" name="{=}One-Handed Barmace" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h0" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h0" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v3_h1" name="{=}One-Handed Barmace +1" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v1_h1" name="{=}One-Handed Barmace +1" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h1" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h1" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v3_h2" name="{=}One-Handed Barmace +2" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v1_h2" name="{=}One-Handed Barmace +2" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h2" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h2" Type="Handle" scale_factor="95" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_onehanded_barmace_v3_h3" name="{=}One-Handed Barmace +3" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
+  <CraftedItem id="crpg_onehanded_barmace_v1_h3" name="{=}One-Handed Barmace +3" crafting_template="crpg_Mace" is_merchandise="false" culture="Culture.vlandia" modifier_group="mace">
     <Pieces>
       <Piece id="crpg_onehanded_barmace_blade_h3" Type="Blade" scale_factor="95" />
       <Piece id="crpg_onehanded_barmace_handle_h3" Type="Handle" scale_factor="95" />
