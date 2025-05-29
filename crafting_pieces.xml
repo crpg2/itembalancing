@@ -26024,7 +26024,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_kama_blade_h0" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.99">
+  <CraftingPiece id="crpg_kama_blade_h0" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.99" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-5.0" />
     <BladeData stack_amount="2" blade_length="6.66" blade_width="32.2" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Pierce" damage_factor="2.6" />
@@ -26037,7 +26037,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_kama_blade_h1" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.99">
+  <CraftingPiece id="crpg_kama_blade_h1" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.99" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-5.0" />
     <BladeData stack_amount="2" blade_length="6.66" blade_width="32.2" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Pierce" damage_factor="2.7" />
@@ -26050,7 +26050,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_kama_blade_h2" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.99">
+  <CraftingPiece id="crpg_kama_blade_h2" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.99" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-5.0" />
     <BladeData stack_amount="2" blade_length="6.66" blade_width="32.2" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Pierce" damage_factor="2.8" />
@@ -26063,7 +26063,7 @@
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_kama_blade_h3" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.92">
+  <CraftingPiece id="crpg_kama_blade_h3" name="{=}Kama Blade" tier="2" piece_type="Blade" mesh="kama_blade" distance_to_next_piece="3.6" distance_to_previous_piece="2.7" weight="0.92" excluded_item_usage_features="thrust">
     <BuildData piece_offset="-5.0" />
     <BladeData stack_amount="2" blade_length="6.66" blade_width="32.2" physics_material="metal_weapon" body_name="bo_axe_longer_b">
       <Swing damage_type="Pierce" damage_factor="2.8" />
