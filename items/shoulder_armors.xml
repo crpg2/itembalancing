@@ -3168,4 +3168,28 @@
     </ItemComponent>
     <Flags UseTeamColor="true" />
   </Item>
+  <Item id="crpg_lombard_cape_h0" name="{=Salt}Lombard Cape" mesh="cts_lombard_cape" is_merchandise="true" culture="Culture.vlandia" weight="0.8477576" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_lombard_cape_h1" name="{=Salt}Lombard Cape" mesh="cts_lombard_cape" is_merchandise="true" culture="Culture.vlandia" weight="0.8477576" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_lombard_cape_h2" name="{=Salt}Lombard Cape" mesh="cts_lombard_cape" is_merchandise="true" culture="Culture.vlandia" weight="0.8477576" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="crpg_lombard_cape_h3" name="{=Salt}Lombard Cape" mesh="cts_lombard_cape" is_merchandise="true" culture="Culture.vlandia" weight="0.8477576" appearance="2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags />
+  </Item>
 </Items>

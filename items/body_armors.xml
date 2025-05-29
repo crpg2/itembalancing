@@ -8808,4 +8808,28 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
+  <Item id="crpg_lombard_armor_h0" name="{=BalanceMe}Lombard Armor" mesh="cts_saxon_tunic" culture="Culture.looters" weight="15.30279" appearance="0.1" Type="BodyArmor" difficulty="0">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="10" arm_armor="24" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_lombard_armor_h1" name="{=BalanceMe}Lombard Armor" mesh="cts_saxon_tunic" culture="Culture.looters" weight="15.30279" appearance="0.1" Type="BodyArmor" difficulty="0">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="10" arm_armor="24" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_lombard_armor_h2" name="{=BalanceMe}Lombard Armor" mesh="cts_saxon_tunic" culture="Culture.looters" weight="15.30279" appearance="0.1" Type="BodyArmor" difficulty="0">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="10" arm_armor="24" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="crpg_lombard_armor_h3" name="{=BalanceMe}Lombard Armor" mesh="cts_saxon_tunic" culture="Culture.looters" weight="15.30279" appearance="0.1" Type="BodyArmor" difficulty="0">
+    <ItemComponent>
+      <Armor body_armor="46" leg_armor="10" arm_armor="24" covers_body="true" modifier_group="Plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
 </Items>
