@@ -37126,7 +37126,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_nagamaki_blade_h0" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Cut" damage_factor="4.0" />
+      <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37137,7 +37137,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_nagamaki_blade_h1" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Cut" damage_factor="4.1" />
+      <Swing damage_type="Cut" damage_factor="3.9" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37148,7 +37148,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_nagamaki_blade_h2" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Cut" damage_factor="4.2" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -37159,7 +37159,7 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_nagamaki_blade_h3" name="Nagamaki Blade" tier="3" piece_type="Blade" mesh="nagamaki_blade" culture="Culture.vlandia" length="88.1" weight="0.8" excluded_item_usage_features="thrust">
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
-      <Swing damage_type="Cut" damage_factor="4.3" />
+      <Swing damage_type="Cut" damage_factor="4.1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
