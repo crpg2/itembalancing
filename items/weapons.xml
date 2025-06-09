@@ -12964,7 +12964,7 @@
       <Piece id="crpg_jian_pommel_h3" Type="Pommel" scale_factor="85" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_ironrod_v4_h0" name="{=Yeldur}Iron Rod" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
+  <CraftedItem id="crpg_ironrod_v5_h0" name="{=Yeldur}Iron Rod" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
     <Pieces>
       <Piece id="crpg_ironrod_blade_h0" Type="Blade" scale_factor="1" />
       <Piece id="crpg_ironrod_guard_h0" Type="Guard" />
@@ -12972,7 +12972,7 @@
       <Piece id="crpg_ironrod_pommel_h0" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_ironrod_v4_h1" name="{=Yeldur}Iron Rod +1" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
+  <CraftedItem id="crpg_ironrod_v5_h1" name="{=Yeldur}Iron Rod +1" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
     <Pieces>
       <Piece id="crpg_ironrod_blade_h1" Type="Blade" scale_factor="1" />
       <Piece id="crpg_ironrod_guard_h1" Type="Guard" />
@@ -12980,7 +12980,7 @@
       <Piece id="crpg_ironrod_pommel_h1" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_ironrod_v4_h2" name="{=Yeldur}Iron Rod +2" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
+  <CraftedItem id="crpg_ironrod_v5_h2" name="{=Yeldur}Iron Rod +2" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
     <Pieces>
       <Piece id="crpg_ironrod_blade_h2" Type="Blade" scale_factor="1" />
       <Piece id="crpg_ironrod_guard_h2" Type="Guard" />
@@ -12988,7 +12988,7 @@
       <Piece id="crpg_ironrod_pommel_h2" Type="Pommel" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_ironrod_v4_h3" name="{=Yeldur}Iron Rod +3" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
+  <CraftedItem id="crpg_ironrod_v5_h3" name="{=Yeldur}Iron Rod +3" is_merchandise="false" crafting_template="crpg_TwoHandedPolearm" has_modifier="false">
     <Pieces>
       <Piece id="crpg_ironrod_blade_h3" Type="Blade" scale_factor="1" />
       <Piece id="crpg_ironrod_guard_h3" Type="Guard" />
