@@ -26596,7 +26596,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_blade_h0" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.01">
+  <CraftingPiece id="crpg_french_voulge_blade_h0" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.5">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Cut" damage_factor="3.5" />
@@ -26608,7 +26608,7 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_blade_h1" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.01">
+  <CraftingPiece id="crpg_french_voulge_blade_h1" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.5">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Cut" damage_factor="3.7" />
@@ -26620,21 +26620,9 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_blade_h2" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.01">
+  <CraftingPiece id="crpg_french_voulge_blade_h2" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.5">
     <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.3" />
-      <Swing damage_type="Cut" damage_factor="3.8" />
-    </BladeData>
-    <Flags>
-      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
-    </Flags>
-    <Materials>
-      <Material id="Iron4" count="2" />
-    </Materials>
-  </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_blade_h3" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.01">
-    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Thrust damage_type="Pierce" damage_factor="2.1" />
       <Swing damage_type="Cut" damage_factor="3.9" />
     </BladeData>
     <Flags>
@@ -26644,25 +26632,37 @@
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_handle_h0" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="3.1" CraftingCost="120">
+  <CraftingPiece id="crpg_french_voulge_blade_h3" name="{=kaikaikai}French Voulge Blade" tier="3" piece_type="Blade" mesh="french_voulge_head" culture="Culture.vlandia" length="58.6" weight="0.45">
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+      <Thrust damage_type="Pierce" damage_factor="2.3" />
+      <Swing damage_type="Cut" damage_factor="3.9" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron4" count="2" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="crpg_french_voulge_handle_h0" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="1.5" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_handle_h1" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="3.1" CraftingCost="120">
+  <CraftingPiece id="crpg_french_voulge_handle_h1" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="1.5" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_handle_h2" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="3.1" CraftingCost="120">
+  <CraftingPiece id="crpg_french_voulge_handle_h2" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="1.5" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_french_voulge_handle_h3" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="3.1" CraftingCost="120">
+  <CraftingPiece id="crpg_french_voulge_handle_h3" name="Polearm Shaft with Langets" tier="2" piece_type="Handle" mesh="french_voulge_shaft" length="130" weight="1.5" CraftingCost="120">
     <BuildData previous_piece_offset="0" next_piece_offset="0" piece_offset="30" />
     <Materials>
       <Material id="Wood" count="1" />
