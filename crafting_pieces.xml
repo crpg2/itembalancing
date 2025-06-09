@@ -33408,8 +33408,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_english_bill_blade_h1" name="{=Salt}English Bill Blade" tier="3" piece_type="Blade" mesh="englishbill_blade" culture="Culture.vlandia" length="64.2" weight="0.53">
     <BladeData stack_amount="3" blade_length="64.2" blade_width="15.5" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.5" />
-      <Swing damage_type="Pierce" damage_factor="3.2" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Pierce" damage_factor="3.3" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -33422,8 +33422,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_english_bill_blade_h2" name="{=Salt}English Bill Blade" tier="3" piece_type="Blade" mesh="englishbill_blade" culture="Culture.vlandia" length="64.2" weight="0.53">
     <BladeData stack_amount="3" blade_length="64.2" blade_width="15.5" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.6" />
-      <Swing damage_type="Pierce" damage_factor="3.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Pierce" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -33436,8 +33436,8 @@
   </CraftingPiece>
   <CraftingPiece id="crpg_english_bill_blade_h3" name="{=Salt}English Bill Blade" tier="3" piece_type="Blade" mesh="englishbill_blade" culture="Culture.vlandia" length="64.2" weight="0.48">
     <BladeData stack_amount="3" blade_length="64.2" blade_width="15.5" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="2.7" />
-      <Swing damage_type="Pierce" damage_factor="3.3" />
+      <Thrust damage_type="Pierce" damage_factor="2.4" />
+      <Swing damage_type="Pierce" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

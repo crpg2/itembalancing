@@ -13380,34 +13380,34 @@
     </ItemComponent>
     <Flags />
   </Item>
-  <CraftedItem id="crpg_english_bill_v3_h0" name="{=Salt}English Bill" crafting_template="crpg_Polearm_2dswing">
+  <CraftedItem id="crpg_english_bill_v4_h0" name="{=Salt}English Bill" crafting_template="crpg_Polearm_2dswing">
     <Pieces>
       <Piece id="crpg_english_bill_blade_h0" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_english_bill_handle_h0" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_english_bill_handle_h0" Type="Handle" scale_factor="110" />
       <Piece id="crpg_english_bill_guard_h0" Type="Guard" scale_factor="100" />
       <Piece id="crpg_english_bill_pommel_h0" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_english_bill_v3_h1" name="{=Salt}English Bill +1" crafting_template="crpg_Polearm_2dswing">
+  <CraftedItem id="crpg_english_bill_v4_h1" name="{=Salt}English Bill +1" crafting_template="crpg_Polearm_2dswing">
     <Pieces>
       <Piece id="crpg_english_bill_blade_h1" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_english_bill_handle_h1" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_english_bill_handle_h1" Type="Handle" scale_factor="110" />
       <Piece id="crpg_english_bill_guard_h1" Type="Guard" scale_factor="100" />
       <Piece id="crpg_english_bill_pommel_h1" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_english_bill_v3_h2" name="{=Salt}English Bill +2" crafting_template="crpg_Polearm_2dswing">
+  <CraftedItem id="crpg_english_bill_v4_h2" name="{=Salt}English Bill +2" crafting_template="crpg_Polearm_2dswing">
     <Pieces>
       <Piece id="crpg_english_bill_blade_h2" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_english_bill_handle_h2" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_english_bill_handle_h2" Type="Handle" scale_factor="110" />
       <Piece id="crpg_english_bill_guard_h2" Type="Guard" scale_factor="100" />
       <Piece id="crpg_english_bill_pommel_h2" Type="Pommel" scale_factor="100" />
     </Pieces>
   </CraftedItem>
-  <CraftedItem id="crpg_english_bill_v3_h3" name="{=Salt}English Bill +3" crafting_template="crpg_Polearm_2dswing">
+  <CraftedItem id="crpg_english_bill_v4_h3" name="{=Salt}English Bill +3" crafting_template="crpg_Polearm_2dswing">
     <Pieces>
       <Piece id="crpg_english_bill_blade_h3" Type="Blade" scale_factor="100" />
-      <Piece id="crpg_english_bill_handle_h3" Type="Handle" scale_factor="100" />
+      <Piece id="crpg_english_bill_handle_h3" Type="Handle" scale_factor="110" />
       <Piece id="crpg_english_bill_guard_h3" Type="Guard" scale_factor="100" />
       <Piece id="crpg_english_bill_pommel_h3" Type="Pommel" scale_factor="100" />
     </Pieces>
