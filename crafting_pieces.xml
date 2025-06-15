@@ -1049,6 +1049,7 @@
       <Swing damage_type="Pierce" damage_factor="3.0" />
     </BladeData>
     <Flags>
+      <Flag name="BonusAgainstShield" />
       <Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
     </Flags>
     <Materials>
