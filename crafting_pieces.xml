@@ -37441,7 +37441,7 @@
   <CraftingPiece id="crpg_nagamaki_pommel_h3" name="{=koX9okuG}None" tier="1" piece_type="Pommel" mesh="" culture="Culture.empire" length="0" weight="0" is_default="true">
   </CraftingPiece>
   <CraftingPiece id="crpg_ottomanaxe_blade_h0" name="{=BalanceMe}Ottoman Axe Blade" tier="3" piece_type="Blade" mesh="ottomanaxe_blade" culture="Culture.vlandia" length="53.3" weight="0.2">
-    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
       <Swing damage_type="Cut" damage_factor="4.3" />
     </BladeData>
@@ -37454,7 +37454,7 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_ottomanaxe_blade_h1" name="{=BalanceMe}Ottoman Axe Blade" tier="3" piece_type="Blade" mesh="ottomanaxe_blade" culture="Culture.vlandia" length="53.3" weight="0.2">
-    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.0" />
       <Swing damage_type="Cut" damage_factor="4.5" />
     </BladeData>
@@ -37467,7 +37467,7 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_ottomanaxe_blade_h2" name="{=BalanceMe}Ottoman Axe Blade" tier="3" piece_type="Blade" mesh="ottomanaxe_blade" culture="Culture.vlandia" length="53.3" weight="0.2">
-    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="4.6" />
     </BladeData>
@@ -37480,7 +37480,7 @@
     </Materials>
   </CraftingPiece>
   <CraftingPiece id="crpg_ottomanaxe_blade_h3" name="{=BalanceMe}Ottoman Axe Blade" tier="3" piece_type="Blade" mesh="ottomanaxe_blade" culture="Culture.vlandia" length="53.3" weight="0.2">
-    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="2.2" />
       <Swing damage_type="Cut" damage_factor="4.6" />
     </BladeData>
