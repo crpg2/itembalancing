@@ -6591,6 +6591,7 @@
       <WeaponDescription id="crpg_TwoHandedPolearm_Couchable" />
       <WeaponDescription id="crpg_TwoHandedPolearm_Bracing" />
       <WeaponDescription id="crpg_TwoHandedPolearm_Thrown" />
+      <WeaponDescription id="crpg_TwoHandedPolearm_Infantry" />
     </WeaponDescriptions>
     <StatsData>
       <StatData stat_type="Weight" max_value="7.0" />
@@ -11172,6 +11173,7 @@
       <WeaponDescription id="crpg_TwoHandedPolearm_Couchable" />
       <WeaponDescription id="crpg_TwoHandedPolearm_Bracing" />
       <WeaponDescription id="crpg_TwoHandedPolearm_Thrown" />
+      <WeaponDescription id="crpg_TwoHandedPolearm_Infantry" />
     </WeaponDescriptions>
     <StatsData>
       <StatData stat_type="Weight" max_value="7.0" />
