@@ -9024,25 +9024,25 @@
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_aa_landsknechtcuirass_h0" name="{=Apple}Lansknecht Cuirass" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_aa_landsknechtcuirass_h0" name="{=Apple}Landsknecht Cuirass" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="46" leg_armor="8" arm_armor="16" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_aa_landsknechtcuirass_h1" name="{=Apple}Lansknecht Cuirass +1" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_aa_landsknechtcuirass_h1" name="{=Apple}Landsknecht Cuirass +1" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="48" leg_armor="9" arm_armor="17" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_aa_landsknechtcuirass_h2" name="{=Apple}Lansknecht Cuirass +2" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_aa_landsknechtcuirass_h2" name="{=Apple}Landsknecht Cuirass +2" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="50" leg_armor="10" arm_armor="18" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true" />
   </Item>
-  <Item id="crpg_aa_landsknechtcuirass_h3" name="{=Apple}Lansknecht Cuirass +3" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
+  <Item id="crpg_aa_landsknechtcuirass_h3" name="{=Apple}Landsknecht Cuirass +3" mesh="aa_landsknechtcuirass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="12.93638" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
       <Armor body_armor="52" leg_armor="11" arm_armor="19" has_gender_variations="false" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
