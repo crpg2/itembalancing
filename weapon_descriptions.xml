@@ -9497,6 +9497,10 @@
       <AvailablePiece id="crpg_courser_lance_handle_h1" />
       <AvailablePiece id="crpg_courser_lance_handle_h2" />
       <AvailablePiece id="crpg_courser_lance_handle_h3" />
+      <AvailablePiece id="crpg_courser_lance_blade_h0" />
+      <AvailablePiece id="crpg_courser_lance_blade_h1" />
+      <AvailablePiece id="crpg_courser_lance_blade_h2" />
+      <AvailablePiece id="crpg_courser_lance_blade_h3" />
       <AvailablePiece id="crpg_decorated_demilance_blade_h0" />
       <AvailablePiece id="crpg_decorated_demilance_blade_h1" />
       <AvailablePiece id="crpg_decorated_demilance_blade_h2" />
