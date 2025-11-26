@@ -37904,7 +37904,7 @@
       <Material id="Iron5" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="crpg_montante_guard_h3" name="{=AppleTruce}El Montante Guard" tier="5" piece_type="Guard" mesh="montante_guard" culture="Culture.battania" length="7.9" weight="0.5">
+  <CraftingPiece id="crpg_montante_guard_h3" name="{=AppleTruce}El Montante Guard" tier="5" piece_type="Guard" mesh="montante_guard" culture="Culture.battania" length="7.9" weight="0.3">
     <BuildData next_piece_offset="6.5" />
     <StatContributions armor_bonus="3" />
     <Materials>
